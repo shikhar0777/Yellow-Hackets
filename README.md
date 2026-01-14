@@ -6,3 +6,4 @@ Whether you are a beginner or have prior experience, you are welcome here. Join 
 
 — WVSU Cyber, AI & Robotics Club
 kickstart of wvsu cic lab website 
+printf("WVSU CIC')
