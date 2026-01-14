@@ -5,3 +5,4 @@ Our club is a student-led community focused on learning, innovation, and collabo
 Whether you are a beginner or have prior experience, you are welcome here. Join us to learn, build, explore, and shape the future of technology at WVSU.
 
 — WVSU Cyber, AI & Robotics Club
+kickstart of wvsu cic
